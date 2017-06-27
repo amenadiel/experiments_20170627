@@ -1,0 +1,15 @@
+{
+	"name": "amazon_test",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:amenadiel/experiments_20170627.git"
+	},
+	"author": "amenadiel@gmail.com",
+	"license": "MIT"
+}
